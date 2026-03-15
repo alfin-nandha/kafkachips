@@ -15,7 +15,7 @@ const productData = {
     shopeeUrl: 'https://shopee.co.id/dutachips',
     tokpedUrl: 'https://www.tokopedia.com/dutachips',
     tiktokUrl: 'https://www.tiktok.com/@kafkachips',
-    waUrl: 'https://wa.me/62082302046403?text=Halo%20KafkaChips,%20saya%20ingin%20memesan%20Keripik%20Nangka',
+    waUrl: 'https://wa.me/62081524180299?text=Halo%20KafkaChips,%20saya%20ingin%20memesan%20Keripik%20Nangka',
     photos: [
       'assets/nangka_0.webp',
       'assets/nangka_1.webp',
@@ -35,7 +35,7 @@ const productData = {
     shopeeUrl: 'https://shopee.co.id/dutachips',
     tokpedUrl: 'https://www.tokopedia.com/dutachips',
     tiktokUrl: 'https://www.tiktok.com/@kafkachips',
-    waUrl: 'https://wa.me/62082302046403?text=Halo%20KafkaChips,%20saya%20ingin%20memesan%20Keripik%20Salak',
+    waUrl: 'https://wa.me/62081524180299?text=Halo%20KafkaChips,%20saya%20ingin%20memesan%20Keripik%20Salak',
     photos: [
       'assets/salak_0.webp',
       'assets/salak_1.webp',
@@ -55,7 +55,7 @@ const productData = {
     shopeeUrl: 'https://shopee.co.id/dutachips',
     tokpedUrl: 'https://www.tokopedia.com/dutachips',
     tiktokUrl: 'https://www.tiktok.com/@kafkachips',
-    waUrl: 'https://wa.me/62082302046403?text=Halo%20KafkaChips,%20saya%20ingin%20memesan%20Rambak%20Pisang',
+    waUrl: 'https://wa.me/62081524180299?text=Halo%20KafkaChips,%20saya%20ingin%20memesan%20Rambak%20Pisang',
     photos: [
       'assets/rambak_pisang_0.webp',
       'assets/rambak_pisang_1.webp',
@@ -75,7 +75,7 @@ const productData = {
     shopeeUrl: 'https://shopee.co.id/dutachips',
     tokpedUrl: 'https://www.tokopedia.com/dutachips',
     tiktokUrl: 'https://www.tiktok.com/@kafkachips',
-    waUrl: 'https://wa.me/62082302046403?text=Halo%20KafkaChips,%20saya%20ingin%20memesan%20Pisang%20Stik',
+    waUrl: 'https://wa.me/62081524180299?text=Halo%20KafkaChips,%20saya%20ingin%20memesan%20Pisang%20Stik',
     photos: [
       'assets/pisang_stik_0.webp',
       'assets/pisang_stik_1.webp',
